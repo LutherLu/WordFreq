@@ -1,84 +1,60 @@
-import xlrd
-import pandas as pd
-
-wb=xlrd.open_workbook("评论数据.xlsx")
-sh=wb.sheet_by_index(0)
-col=sh.ncols
-row=sh.nrows
-Text=[]
-for i in range(row):
-    Text_Context=sh.row_values(i,1,2)[0]
-    Text.append(Text_Context)
-del Text[0]
-print(Text)
-
-
-#结巴分词
-import jieba
-import gensim
-#停用词处理
-
-import spacy
-from spacy.lang.zh.stop_words import STOP_WORDS
-
-sent_words = []
-for sent0 in Text:
-    try:
-        l=list(jieba.cut(sent0))
-        # print(l)
-        filtered_sentence = []
-        for word in l:
-            if word not in STOP_WORDS:
-                filtered_sentence.append(word)
-        sent_words.append(filtered_sentence)
-        # print( filtered_sentence)
-    except:
-        pass
-print(sent_words)
-document = []
-
-from sklearn import feature_extraction
-from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
-tfidf_model = TfidfVectorizer().fit(document)
-# 得到语料库所有不重复的词
-feature = tfidf_model.get_feature_names()
-print(feature)
-# 得到每个特征对应的id值：即上面数组的下标
-print(tfidf_model.vocabulary_)
+def base_doc():
+    from pathlib import Path
+    all_txt_files = []
+    for file in Path("Foreign_CSR_txt").rglob("*.txt"):
+        all_txt_files.append(file.parent / file.name)
+    n_files = len(all_txt_files)
+    print(n_files)
+    all_txt_files.sort()
+    for txt_file in all_txt_files:
+        with open(txt_file) as f:
+            txt_file_as_string = f.read()
+        corpus.append(txt_file_as_string)
+    print(corpus)
 
-# 每一行中的指定特征的tf-idf值：
-sparse_result = tfidf_model.transform(document)
 
-# 每一个语料中包含的各个特征值的tf-idf值：
-# 每一行代表一个预料，每一列代表这一行代表的语料中包含这个词的tf-idf值，不包含则为空
-weight = sparse_result.toarray()
+if __name__ == "__main__":
 
-# 构建词与tf-idf的字典：
-feature_TFIDF = {}
-for i in range(len(weight)):
-    for j in range(len(feature)):
-        # print(feature[j], weight[i][j])
-        if feature[j] not in feature_TFIDF:
-            feature_TFIDF[feature[j]] = weight[i][j]
-        else:
-            feature_TFIDF[feature[j]] = max(feature_TFIDF[feature[j]], weight[i][j])
-# print(feature_TFIDF)
+    # 存储读取语料 一行预料为一个文档
+    corpus = []
+    base_doc()
 
-# 按值排序：
-print('TF-IDF 排名前十的(TF-IDF>1时)：')
-featureList = sorted(feature_TFIDF.items(), key=lambda kv: (kv[1], kv[0]), reverse=True)
-for i in range(10):
-    print(featureList[i][0], featureList[i][1])
+    # 将文本中的词语转换为词频矩阵 矩阵元素a[i][j] 表示j词在i类文本下的词频
+    vectorizer = CountVectorizer()
+    print(vectorizer)
 
-k=0
-m=0
-print('TF-IDF 排名前十的(TF-IDF<1时)：')
-while k<=10:
-    if featureList[m][1]<1:
-        k+=1
-        print(featureList[m][0], featureList[m][1])
-    m+=1
+    X = vectorizer.fit_transform(corpus)
+    analyze = vectorizer.build_analyzer()
+    weight = X.toarray()
 
+    print(len(weight))
+    print (weight[:5, :5])
+
+    # LDA算法
+    print('LDA:')
+    import numpy as np
+    import lda
+    import lda.datasets
+
+    # 定义主题数量
+    n_topics = 10
+    # 定义迭代次数
+    n_iter = 500
+    model = lda.LDA(n_topics=n_topics, n_iter=n_iter, random_state=1)
+    model.fit(np.asarray(weight))  # model.fit_transform(X) is also available
+    # 主题-单词（topic-word）分布
+    topic_word = model.topic_word_  # model.components_ also works
+
+    # 文档-主题（Document-Topic）分布
+    doc_topic = model.doc_topic_
+    print("type(doc_topic): {}".format(type(doc_topic)))
+    print("shape: {}".format(doc_topic.shape))
+
+    # 输出前10篇文章最可能的Topic
+    label = []
+    for n in range(10):
+        topic_most_pr = doc_topic[n].argmax()
+        label.append(topic_most_pr)
+        print("doc: {} topic: {}".format(n, topic_most_pr))
