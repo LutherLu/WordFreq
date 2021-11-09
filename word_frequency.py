@@ -3,6 +3,8 @@
 缩进均为4个英文空格"""
 # 引入Python正则表达式模块、spaCy停用词模块
 import re
+
+import gensim.models
 from spacy.lang.en.stop_words import STOP_WORDS
 
 # 空字典
@@ -26,7 +28,6 @@ def base_doc():
             txt_file_as_string = f.read()
         all_docs.append(txt_file_as_string)
     print(all_docs)
-
 
 def extract(file_name):
     # 声明一个空的词频字典
