@@ -9,7 +9,8 @@ from spacy.lang.en.stop_words import STOP_WORDS
 filtered_match = []
 match = []
 frequency = {}
-
+all_docs = []
+filtered = []
 
 def base_doc():
     from pathlib import Path
@@ -20,11 +21,11 @@ def base_doc():
     print(n_files)
     all_txt_files.sort()
     all_txt_files[0]
-    all_docs = []
     for txt_file in all_txt_files:
         with open(txt_file) as f:
             txt_file_as_string = f.read()
         all_docs.append(txt_file_as_string)
+    print(all_docs)
 
 
 def extract(file_name):
@@ -56,4 +57,3 @@ def freq():
 fn = input("File name in Data folder:")
 extract(fn)
 freq()
-
