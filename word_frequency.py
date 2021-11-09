@@ -4,7 +4,6 @@
 # 引入Python正则表达式模块、spaCy停用词模块
 import re
 
-import gensim.models
 from spacy.lang.en.stop_words import STOP_WORDS
 
 # 空字典
