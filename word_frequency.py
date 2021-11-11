@@ -4,14 +4,16 @@
 # 引入Python正则表达式模块、spaCy停用词模块
 import re
 
+# 引入spaCy的常见英文停用词
 from spacy.lang.en.stop_words import STOP_WORDS
 
 # 空字典
 filtered_match = []
-match = []
+# 声明一个空的词频字典
 frequency = {}
 all_docs = []
 filtered = []
+
 
 def base_doc():
     from pathlib import Path
@@ -21,16 +23,15 @@ def base_doc():
     n_files = len(all_txt_files)
     print(n_files)
     all_txt_files.sort()
-    all_txt_files[0]
+#    all_txt_files[0]
     for txt_file in all_txt_files:
         with open(txt_file) as f:
             txt_file_as_string = f.read()
         all_docs.append(txt_file_as_string)
     print(all_docs)
 
+
 def extract(file_name):
-    # 声明一个空的词频字典
-    frequency = {}
     # 从txt文件读取内容，并将所有大写字母转换为小写
     document: str = open(f'Data/{file_name}.txt', 'r').read().lower()
     # 从打开的内容中匹配所有2-15字符长度的英文单词，存储到match
@@ -41,6 +42,7 @@ def extract(file_name):
             filtered_match.append(item)
         else:
             continue
+
 
 def freq():
     # 对获得的match数组进行循环
@@ -53,6 +55,7 @@ def freq():
     # 通过循环将字典中的数据写入txt文件
     for key in frequency:
         result.write(f"{frequency[key]},{key}\n")
+
 
 fn = input("File name in Data folder:")
 extract(fn)
