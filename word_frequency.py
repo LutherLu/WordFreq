@@ -11,27 +11,9 @@ from spacy.lang.en.stop_words import STOP_WORDS
 filtered_match = []
 # 声明一个空的词频字典
 frequency = {}
-all_docs = []
 filtered = []
 
-
-def base_doc():
-    from pathlib import Path
-    all_txt_files = []
-    for file in Path("Foreign_CSR_txt").rglob("*.txt"):
-        all_txt_files.append(file.parent / file.name)
-    n_files = len(all_txt_files)
-    print(n_files)
-    all_txt_files.sort()
-#    all_txt_files[0]
-    for txt_file in all_txt_files:
-        with open(txt_file) as f:
-            txt_file_as_string = f.read()
-        all_docs.append(txt_file_as_string)
-    print(all_docs)
-
-
-def extract(file_name):
+def extract_freq(file_name):
     # 从txt文件读取内容，并将所有大写字母转换为小写
     document: str = open(f'Data/{file_name}.txt', 'r').read().lower()
     # 从打开的内容中匹配所有2-15字符长度的英文单词，存储到match
@@ -42,9 +24,6 @@ def extract(file_name):
             filtered_match.append(item)
         else:
             continue
-
-
-def freq():
     # 对获得的match数组进行循环
     for word in filtered_match:
         count = frequency.get(word, 0)
@@ -58,5 +37,4 @@ def freq():
 
 
 fn = input("File name in Data folder:")
-extract(fn)
-freq()
+extract_freq(fn)
