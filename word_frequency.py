@@ -7,11 +7,12 @@ import re
 # 引入spaCy的常见英文停用词
 from spacy.lang.en.stop_words import STOP_WORDS
 
-# 空字典
+# 用于存放经过停用词表之后的单词
 filtered_match = []
-# 声明一个空的词频字典
+# 声明一个空的词频字典，保存最终结果
 frequency = {}
 filtered = []
+
 
 def extract_freq(file_name):
     # 从txt文件读取内容，并将所有大写字母转换为小写
@@ -36,5 +37,6 @@ def extract_freq(file_name):
         result.write(f"{frequency[key]},{key}\n")
 
 
-fn = input("File name in Data folder:")
-extract_freq(fn)
+if __name__ == "__main__":
+    fn = input("File name in Data folder:")
+    extract_freq(fn)
