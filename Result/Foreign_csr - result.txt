@@ -1,7 +1,6 @@
 916,sustainability
 991,report
 42,table
-11642,of
 9,contents
 50,ceo
 57,statement
@@ -9,18 +8,13 @@
 704,company
 106,supporting
 565,development
-200,while
 36,addressing
 9,disruptions
-8874,in
 960,global
 329,supply
-14216,and
 309,value
 122,chains
 80,integration
-388,into
-19571,the
 1051,business
 537,social
 139,inclusion
@@ -32,29 +26,18 @@
 393,protection
 523,human
 395,rights
-262,about
-1791,this
 1434,msc
 1564,group
-3181,we
-2358,are
 2,publishing
-4146,our
 7,facing
-421,one
 204,major
 220,challenges
 9,century
-98,what
 4,thought
-58,would
-900,be
 11,threat
-822,has
 3,suddenly
 2,turned
 91,crisis
-3510,with
 6,unpredictable
 10,socio
 213,economic
@@ -64,7 +47,6 @@
 4,econo
 3,mies
 354,people
-324,around
 447,world
 56,short
 193,long
@@ -74,18 +56,12 @@
 4,accelerated
 36,understand
 96,ing
-1669,that
 13,globalisation
 24,creates
-606,not
-220,only
 734,new
 184,opportunities
-4141,for
 8,wealth
 480,trade
-188,but
-1023,also
 19,adverse
 11,unexpected
 19,requiring
@@ -93,36 +69,21 @@
 18,approaches
 2,resil
 2,ience
-1661,at
-116,same
 363,time
-1202,from
-128,now
-3683,on
-671,more
 23,flexible
 13,faster
 9,responses
-78,above
-1024,all
 15,determination
-734,will
 7,instrumental
 125,developing
 19,pathways
 495,working
-130,together
-3080,is
 71,fundamental
-358,than
-18,ever
 66,sharing
 34,know
-244,how
 1,visions
 4,certainly
 37,lead
-9657,to
 30,generation
 43,multi
 70,stakeholder
@@ -131,10 +92,6 @@
 9,regulators
 26,investor
 122,community
-113,already
-156,some
-119,those
-2247,by
 11,jointly
 85,transition
 137,low
@@ -143,13 +100,9 @@
 94,promoting
 9,stricter
 55,transparent
-329,due
 73,diligence
 273,processes
-2877,as
-562,well
 4,generating
-897,or
 2,lever
 2,aging
 42,capital
@@ -163,8 +116,6 @@
 640,based
 15,esg
 68,criteria
-204,there
-167,no
 7,doubt
 240,order
 101,create
@@ -177,10 +128,7 @@
 231,process
 327,including
 321,financial
-275,where
 8,left
-14,behind
-60,yet
 87,achieve
 39,allow
 60,growing
@@ -188,7 +136,6 @@
 11,contributions
 14,realisation
 34,agenda
-322,further
 58,enhance
 57,cooperation
 110,levels
@@ -198,27 +145,22 @@
 36,economies
 5,paramount
 58,importance
-885,it
 57,needed
 388,ensure
 218,stakeholders
 128,better
 60,prepared
 14,overcome
-66,without
 2,compromising
 70,ongoing
 58,collective
 197,efforts
-152,towards
 22,fostering
 117,inclusive
 122,needs
 132,changes
 41,play
-1169,an
 97,active
-441,part
 2,redefining
 63,present
 132,building
@@ -231,23 +173,18 @@
 18,feel
 14,integral
 54,helping
-166,make
 12,happen
-560,through
 27,unique
 441,approach
 645,shipping
 42,fast
 89,decision
 124,making
-114,very
 195,important
-455,us
 38,consider
 14,acting
 20,responsibly
 4,era
-1069,have
 34,clearly
 15,understood
 10,true
@@ -255,13 +192,8 @@
 2,indispensable
 4,reassessed
 443,activities
-516,been
 112,taken
 6,granted
-185,so
-39,much
-351,they
-15,became
 1,invisible
 1,paralysed
 7,guaranteeing
@@ -271,7 +203,6 @@
 13,scenario
 323,industry
 3,praised
-781,its
 98,central
 110,role
 1,interconnection
@@ -285,7 +216,6 @@
 127,united
 88,nations
 79,agencies
-513,such
 44,ilo
 272,imo
 7,valuing
@@ -301,24 +231,19 @@
 102,included
 95,dedicated
 31,section
-8,latter
 27,highlights
 444,responsible
 269,practices
 216,line
 51,broader
 277,strategy
-103,four
 28,pillars
-312,during
 9,outbreak
-86,beyond
 10,played
 329,key
 400,logistics
 284,chain
 20,continuity
-197,do
 79,continuously
 79,worked
 44,closely
@@ -328,17 +253,14 @@
 42,thanks
 49,reach
 41,governments
-541,were
 144,able
 49,connect
 479,customers
-888,their
 14,final
 2,receivers
 22,securing
 96,direct
 2,consignment
-16,never
 8,stopped
 8,diego
 17,aponte
@@ -355,7 +277,6 @@
 91,plans
 17,adapting
 182,capacity
-29,whenever
 99,necessary
 60,routes
 126,offer
@@ -375,10 +296,7 @@
 135,reducing
 744,emissions
 47,liner
-62,still
-70,less
 3,impactful
-524,other
 22,modes
 36,despite
 133,particular
@@ -395,7 +313,6 @@
 206,increase
 561,environmental
 253,efficiency
-70,thus
 11,pursuing
 40,ambitious
 92,challenge
@@ -403,9 +320,7 @@
 30,going
 18,extra
 24,mile
-55,always
 120,way
-177,take
 123,providing
 204,help
 132,initiative
@@ -427,13 +342,9 @@
 16,italian
 63,clear
 262,example
-632,these
 200,possible
-137,who
 5,tirelessly
-12,my
 3,gratitude
-69,once
 18,goes
 282,staff
 24,ashore
@@ -445,9 +356,7 @@
 21,demonstrated
 30,challenging
 75,times
-80,top
 76,priorities
-130,therefore
 209,continue
 36,strengthening
 1150,management
@@ -459,24 +368,19 @@
 13,robust
 6,protocols
 381,measures
-207,across
 86,infrastructure
 74,offices
 31,like
 8,conclude
 1,saying
-179,being
 56,remain
 33,successful
 10,enterprise
 24,difficult
-49,does
 54,come
 483,risks
-108,however
 9,react
 10,defines
-7,becomes
 10,strength
 132,learning
 95,experience
@@ -488,9 +392,7 @@
 101,communities
 171,day
 354,operations
-23,wherever
 56,operate
-221,first
 49,step
 6,headquartered
 34,geneva
@@ -507,7 +409,6 @@
 34,single
 205,vessel
 78,operation
-316,over
 309,years
 44,changing
 20,patterns
@@ -530,8 +431,6 @@
 1183,employees
 9,offshore
 32,onshore
-1022,which
-41,go
 399,services
 87,investments
 245,terminals
@@ -554,7 +453,6 @@
 45,leader
 225,million
 218,teu
-78,call
 158,carried
 29,annually
 1,coruonutrteiess
@@ -569,7 +467,6 @@
 1,cuarrpied
 96,investment
 153,plan
-338,up
 5,ent
 632,ship
 1,stheiups
@@ -652,13 +549,11 @@
 1,moder
 1,advan
 100,january
-716,was
 32,primary
 143,shore
 94,power
 17,user
 7,shenzhen
-162,made
 10,february
 3,oakland
 18,ready
@@ -692,8 +587,6 @@
 112,increasing
 6,standardisation
 10,harmonisation
-311,within
-170,may
 7,activated
 16,electric
 20,locomotives
@@ -724,10 +617,7 @@
 25,expanding
 55,intermodal
 202,network
-235,under
-13,name
 17,august
-179,three
 42,class
 1,samar
 1,isabella
@@ -736,7 +626,6 @@
 110,emergency
 98,response
 167,initiatives
-103,after
 13,hurricane
 6,dorian
 36,october
@@ -754,7 +643,6 @@
 12,explore
 20,northern
 67,route
-248,between
 86,europe
 89,asia
 37,instead
@@ -764,7 +652,6 @@
 152,main
 369,areas
 3,grandiosa
-204,most
 67,environmentally
 20,sound
 353,energy
@@ -798,7 +685,6 @@
 22,increases
 368,number
 20,moved
-274,per
 8,quay
 6,metre
 2,hectare
@@ -810,8 +696,6 @@
 204,reduction
 450,fuel
 286,consumption
-27,move
-102,full
 6,partial
 7,acquisitions
 180,strategic
@@ -824,8 +708,6 @@
 12,writing
 1,coronavirus
 42,living
-54,just
-34,few
 51,months
 65,pandemic
 57,affected
@@ -835,7 +717,6 @@
 4,produc
 74,tion
 1,forcing
-29,re
 13,think
 2,concerted
 141,national
@@ -853,10 +734,7 @@
 2,dependencies
 1,multiples
 135,result
-67,before
-59,last
 11,observed
-18,although
 19,mitigation
 17,adapted
 407,local
@@ -873,12 +751,9 @@
 60,early
 27,phase
 2,aviation
-77,had
 6,dramatically
 225,reduce
-61,because
 10,closure
-143,many
 2,airports
 166,worldwide
 21,transfer
@@ -923,7 +798,6 @@
 46,considered
 52,additionally
 9,adjusted
-182,when
 2,neces
 3,sary
 18,reviewed
@@ -961,7 +835,6 @@
 670,compliance
 30,recommendations
 8,sure
-51,keep
 157,place
 6,counter
 7,disease
@@ -1017,7 +890,6 @@
 14,feeder
 26,dry
 87,reefer
-54,could
 25,rely
 68,continuous
 2,quicker
@@ -1038,7 +910,6 @@
 25,congestion
 182,period
 34,trucks
-183,used
 22,examples
 184,include
 11,southern
@@ -1046,7 +917,6 @@
 1,tunisia
 1,albania
 7,morocco
-27,again
 25,confirmed
 3,proving
 2,infrastruc
@@ -1060,8 +930,6 @@
 1,revival
 8,tourism
 1,europax
-219,two
-9,namely
 1,sicily
 1,sardinia
 108,furthermore
@@ -1076,7 +944,6 @@
 65,contact
 68,relationships
 4,differentiated
-32,itself
 91,personal
 8,touch
 212,addition
@@ -1102,7 +969,6 @@
 2,suspension
 30,transit
 1,sot
-153,using
 18,shipment
 3,bremerhaven
 78,germany
@@ -1130,10 +996,8 @@
 170,control
 34,stage
 33,allowing
-250,them
 63,delivery
 35,date
-148,own
 49,decrease
 10,discharge
 197,improve
@@ -1148,7 +1012,6 @@
 13,shipments
 1,lessened
 87,start
-185,third
 12,quarter
 82,facilities
 59,past
@@ -1170,7 +1033,6 @@
 30,hoc
 5,hinterland
 33,connectivity
-535,can
 74,found
 46,chapter
 42,pages
@@ -1203,7 +1065,6 @@
 104,additional
 4,allowances
 7,overtime
-208,various
 48,lines
 1,poeurriosdh
 5,ated
@@ -1289,7 +1150,6 @@
 15,trades
 1,officoiarles
 1,arsm
-127,among
 58,categories
 1,hardest
 7,hit
@@ -1306,16 +1166,13 @@
 11,secretary
 104,general
 4,acknowledged
-28,whose
 6,dedication
 3,profes
 1,sionalism
 12,vast
 27,majority
 17,safely
-18,he
 3,stressed
-154,must
 2,honour
 12,recognising
 46,travel
@@ -1324,7 +1181,6 @@
 21,addressed
 3,emphasise
 8,wellbeing
-94,should
 2,compromised
 36,face
 11,implications
@@ -1333,7 +1189,6 @@
 1,stuck
 87,contracts
 22,respond
-44,others
 2,stranded
 7,return
 44,home
@@ -1342,14 +1197,12 @@
 1,welcoming
 48,improvements
 24,stand
-24,side
 45,shipowners
 4,seafar
 59,groups
 36,encourage
 85,individual
 78,act
-4,meanwhile
 36,similar
 14,label
 3,impor
@@ -1373,7 +1226,6 @@
 1,pandemics
 176,page
 4,protects
-25,please
 12,refer
 12,guests
 152,members
@@ -1398,7 +1250,6 @@
 2,arranging
 28,crews
 44,charter
-159,via
 112,collaboration
 29,protocol
 2,periodical
@@ -1462,7 +1313,6 @@
 6,video
 20,conference
 12,format
-23,until
 7,notice
 7,instructions
 33,began
@@ -1475,7 +1325,6 @@
 155,established
 129,skills
 82,knowledge
-235,both
 1,conferencing
 3,workspaces
 91,improved
@@ -1507,10 +1356,8 @@
 313,code
 175,conduct
 404,reporting
-229,any
 8,misconduct
 1,viola
-31,either
 109,means
 10,speak
 19,channels
@@ -1527,7 +1374,6 @@
 129,involved
 29,contributed
 35,fight
-101,against
 191,area
 6,converted
 1,splendid
@@ -1596,7 +1442,6 @@
 15,red
 4,upgrade
 5,conditioning
-361,out
 10,supervision
 5,rina
 1,interior
@@ -1711,7 +1556,6 @@
 78,planning
 3,imagine
 3,doubling
-48,down
 24,evolving
 12,scenarios
 23,broad
@@ -1720,7 +1564,6 @@
 10,slow
 32,documentation
 2,incorporation
-13,nevertheless
 4,acknowledge
 9,technol
 5,ogy
@@ -1772,7 +1615,6 @@
 2,pledges
 13,alignment
 65,compact
-52,ten
 74,overall
 279,responsibility
 6,rests
@@ -1810,7 +1652,6 @@
 15,sustain
 39,ability
 50,matters
-113,throughout
 8,embedding
 753,training
 128,improvement
@@ -1864,26 +1705,22 @@
 3,redefine
 204,focus
 355,performance
-116,regarding
 59,given
 119,laws
 2,conven
 6,ards
 73,parties
 3,illustrates
-27,moreover
 22,studies
 135,programmes
 4,initia
 4,tives
-12,show
 2,cooperate
 3,stakehold
 14,ers
 13,constructive
 143,dialogue
 101,positive
-247,each
 20,contains
 5,explanations
 23,considerations
@@ -1926,7 +1763,6 @@
 9,cleaner
 20,seas
 15,massive
-69,whether
 13,conducting
 57,fair
 42,ethical
@@ -1935,7 +1771,6 @@
 3,ally
 21,assessing
 128,goals
-13,indeed
 4,observe
 1,interconnected
 2,socie
@@ -1984,7 +1819,6 @@
 12,landlocked
 3,lldcs
 38,industries
-44,least
 3,ldcs
 80,employment
 48,discrimination
@@ -2019,20 +1853,17 @@
 13,proactively
 16,anticipate
 45,foster
-57,doing
 191,develop
 63,according
 1,esca
 3,seamless
 6,enabler
 6,prosperity
-7,everything
 5,consume
 5,travels
 66,centre
 13,everyday
 3,nents
-27,becoming
 3,linking
 3,respon
 3,sible
@@ -2275,10 +2106,8 @@
 56,highest
 5,belgium
 6,netherlands
-253,since
 63,benefit
 40,commission
-19,empty
 11,medrepair
 52,recent
 1,minority
@@ -2298,10 +2127,8 @@
 13,absolute
 3,polluting
 15,shown
-62,below
 43,covered
 62,certified
-22,often
 5,confronted
 4,characterised
 3,exploitation
@@ -2353,7 +2180,6 @@
 1,hauts
 106,de
 100,large
-50,along
 142,french
 3,belgian
 143,benefits
@@ -2411,7 +2237,6 @@
 1,emmerich
 1,koblenz
 7,frankfurt
-8,am
 1,ginsheim
 1,gustavsburg
 2,gent
@@ -2466,7 +2291,6 @@
 1,fned
 100,et
 2,tis
-69,me
 1,gan
 1,recm
 2,ra
@@ -2610,7 +2434,6 @@
 1,talm
 3,renamed
 7,runs
-59,become
 49,train
 9,establishes
 31,preventing
@@ -2696,7 +2519,6 @@
 1,edway
 1,scuolatrasporti
 2,atlas
-114,several
 45,highly
 3,trainers
 1,analy
@@ -2733,13 +2555,10 @@
 1,opportuni
 10,recruiting
 50,students
-38,upon
 15,completion
 87,courses
 47,completed
 64,apprentices
-55,next
-115,five
 1,lousado
 6,saint
 3,petersburg
@@ -2768,7 +2587,6 @@
 2,undertakings
 1,wagon
 1,keepers
-9,eleven
 4,atlantic
 3,rhine
 3,alpine
@@ -3026,7 +2844,6 @@
 49,product
 18,gdp
 2,reveals
-193,if
 26,spill
 47,effects
 2,contribu
@@ -3050,7 +2867,6 @@
 11,shipped
 154,german
 19,destination
-47,six
 7,discharging
 6,improves
 1,collaborates
@@ -3143,7 +2959,6 @@
 1,angerous
 1,nadtruarfatl
 17,ecotransit
-28,amount
 92,tool
 1,loyees
 7,default
@@ -3267,7 +3082,6 @@
 39,sales
 1,reimbursements
 45,pay
-22,back
 11,sold
 1,fits
 8,coffee
@@ -3284,7 +3098,6 @@
 262,waste
 20,controlled
 14,atmosphere
-3,ca
 32,longer
 26,potentially
 12,opening
@@ -3304,7 +3117,6 @@
 23,millions
 14,depend
 7,poses
-165,every
 11,continent
 1,disadvan
 1,taged
@@ -3333,7 +3145,6 @@
 9,depends
 1,assur
 9,ance
-251,see
 30,lasting
 28,estimated
 3,anthropogenic
@@ -3347,7 +3158,6 @@
 27,consistent
 1,aphic
 12,decade
-35,whole
 5,predicted
 1,grgarg
 1,erdgaetd
@@ -3387,7 +3197,6 @@
 4,breakthroughs
 20,propulsion
 130,fuels
-85,even
 13,accelerate
 15,commercially
 20,viable
@@ -3440,7 +3249,6 @@
 14,allowed
 2,commer
 7,widespread
-17,too
 22,consumers
 9,specialists
 95,aspects
@@ -3522,7 +3330,6 @@
 39,propeller
 4,enhancements
 19,tracking
-72,then
 45,awarded
 34,certificate
 4,slightly
@@ -3617,7 +3424,6 @@
 4,stems
 31,tasks
 4,relat
-11,mostly
 27,qualified
 6,consultancy
 4,gr
@@ -3648,7 +3454,6 @@
 1,alien
 14,invasive
 59,species
-24,serious
 123,loss
 1,extinction
 8,native
@@ -3704,7 +3509,6 @@
 4,ter
 10,translates
 11,celebrated
-55,another
 4,milestone
 12,arising
 3,toxic
@@ -3738,7 +3542,6 @@
 3,blades
 3,polishing
 3,slip
-13,unless
 6,silicon
 3,coated
 3,thruster
@@ -3764,7 +3567,6 @@
 28,testing
 42,technological
 28,deployment
-47,why
 8,biodiesel
 19,conventional
 22,reasons
@@ -3774,8 +3576,6 @@
 5,sourced
 3,inten
 4,sity
-2,toward
-40,almost
 3,absent
 3,particu
 21,trials
@@ -3913,7 +3713,6 @@
 4,selective
 3,catalytic
 6,scr
-12,whereby
 6,agent
 12,ammonia
 1,urea
@@ -3935,7 +3734,6 @@
 1,safest
 20,concerned
 17,calling
-10,her
 2,maiden
 36,voyage
 3,jewel
@@ -3950,7 +3748,6 @@
 28,powered
 26,conjunction
 1,cent
-7,she
 6,welcomed
 5,est
 22,visit
@@ -3993,7 +3790,6 @@
 21,substantially
 8,trillion
 7,vehicles
-25,though
 1,ventila
 15,heating
 8,pumps
@@ -4006,7 +3802,6 @@
 9,spent
 27,combat
 8,urban
-22,eight
 6,berths
 2,guangdong
 4,province
@@ -4131,7 +3926,6 @@
 23,death
 8,puts
 3,banning
-7,anywhere
 2,imposing
 2,kuwait
 4,prohibit
@@ -4160,7 +3954,6 @@
 1,drum
 9,litres
 1,rtu
-54,thereby
 14,maintains
 339,employee
 61,satisfaction
@@ -4188,7 +3981,6 @@
 7,incentives
 58,primarily
 1,interconnecting
-12,sometimes
 9,referred
 12,fourth
 2,revolution
@@ -4196,7 +3988,6 @@
 99,conducted
 2,revealed
 61,mobility
-27,alone
 2,abate
 1,gigatons
 60,dioxide
@@ -4213,7 +4004,6 @@
 7,achievement
 1,publi
 9,blueprint
-22,nine
 6,berthing
 12,mooring
 4,precise
@@ -4512,11 +4302,9 @@
 2,marks
 3,prove
 29,hold
-31,ourselves
 12,adherence
 4,standardization
 4,heightened
-62,put
 4,demonstration
 4,precautions
 9,delays
@@ -4584,7 +4372,6 @@
 10,friction
 2,rudders
 1,fleetwide
-9,except
 1,locational
 10,brought
 1,scrapings
@@ -4798,10 +4585,8 @@
 32,exposure
 20,discuss
 5,explaining
-22,amongst
 16,simple
 1,shortcuts
-6,anyone
 6,feels
 3,unsafe
 1,hesitate
@@ -4814,7 +4599,6 @@
 1,walkways
 1,ladder
 22,deck
-34,get
 1,wet
 3,spray
 1,antiskid
@@ -4827,8 +4611,6 @@
 1,contrasting
 2,colours
 1,cordoned
-33,off
-10,otherwise
 1,maintayinoedu
 10,text
 8,periods
@@ -4839,7 +4621,6 @@
 4,icons
 1,repla
 1,replac
-49,you
 47,accident
 4,miss
 1,reoccurrence
@@ -4858,7 +4639,6 @@
 3,ethic
 36,applies
 13,avoidance
-15,everyone
 11,theme
 23,elements
 1,cmr
@@ -4932,7 +4712,6 @@
 2,indicates
 3,confirming
 7,kpis
-26,give
 79,feedback
 17,perspectives
 12,lies
@@ -5137,7 +4916,6 @@
 8,surveyed
 6,clothing
 2,scored
-25,did
 11,substantial
 1,increments
 6,signif
@@ -5200,7 +4978,6 @@
 15,payment
 1,downturn
 16,salaries
-4,elsewhere
 3,capac
 3,inception
 3,finan
@@ -5268,7 +5045,6 @@
 2,troubleshooting
 3,tips
 20,deal
-3,onto
 17,uniform
 8,consistency
 1,overloading
@@ -5346,7 +5122,6 @@
 14,articles
 18,media
 12,image
-27,cannot
 12,perception
 26,scheme
 13,cargoes
@@ -5376,7 +5151,6 @@
 23,danish
 7,grounded
 10,universal
-20,might
 2,reinforces
 12,equally
 138,legal
@@ -5391,7 +5165,6 @@
 2,secures
 6,participatory
 4,lift
-21,themselves
 11,combating
 2,transmitting
 2,realised
@@ -5498,7 +5271,6 @@
 8,pillar
 4,regime
 2,enters
-1,beside
 2,elimi
 2,nate
 1,substandard
@@ -5912,7 +5684,6 @@
 8,concert
 1,famous
 1,artists
-9,front
 1,relaunch
 1,ecopark
 5,clinic
@@ -6013,7 +5784,6 @@
 8,collaborated
 1,capri
 23,alongside
-15,done
 1,landfall
 6,completely
 2,suspended
@@ -6024,7 +5794,6 @@
 1,badly
 5,storm
 6,homes
-2,forty
 1,roofs
 1,windows
 7,doors
@@ -6174,7 +5943,6 @@
 16,lowering
 1,ized
 3,unlock
-3,fifty
 6,affordable
 21,prices
 2,stimulate
@@ -6254,11 +6022,9 @@
 7,projected
 1,portuario
 2,paulo
-4,formerly
 1,antigo
 3,da
 2,alemoa
-8,former
 1,dumpsite
 9,lot
 5,mangrove
@@ -6540,7 +6306,6 @@
 1,continously
 6,occupancy
 2,vendor
-14,twelve
 2,hfc
 6,gasses
 4,transicold
@@ -6752,11 +6517,9 @@
 12,develops
 1,corri
 1,dors
-47,here
 2,handlers
 2,trailer
 1,shunts
-18,twenty
 1,circulation
 3,filtration
 4,overseeing
@@ -6845,7 +6608,6 @@
 1,tenet
 8,inherent
 1,lightly
-1,somewhere
 1,phytoplankton
 3,plankton
 1,sink
@@ -7366,7 +7128,6 @@
 1,reporter
 1,confiden
 1,tially
-8,say
 2,realistic
 3,bribes
 28,forms
@@ -7442,7 +7203,6 @@
 5,visiting
 7,delegation
 3,commended
-2,besides
 13,worker
 1,stereotyping
 1,istrative
@@ -7477,7 +7237,6 @@
 6,invite
 1,advent
 1,gmdss
-4,whereas
 3,architecture
 4,background
 2,responsi
@@ -7608,7 +7367,6 @@
 2,incorrectly
 1,rectify
 1,digitalisa
-2,seems
 2,fix
 3,sincerely
 1,suppli
@@ -7707,7 +7465,6 @@
 3,charte
 1,continental
 1,cfta
-8,everywhere
 1,agricul
 1,lucrative
 1,nent
@@ -8038,7 +7795,6 @@
 1,surfer
 1,choppy
 1,kembla
-3,him
 3,towing
 2,notified
 1,inspector
@@ -8279,7 +8035,6 @@
 1,nearing
 2,failing
 7,contractors
-30,his
 1,saddens
 3,mirror
 17,frontline
@@ -8369,7 +8124,6 @@
 21,freedom
 20,privacy
 15,leisure
-28,your
 1,tied
 3,fold
 2,declining
@@ -8429,7 +8183,6 @@
 16,dealt
 19,starting
 7,smoothly
-6,hundred
 5,progressing
 7,little
 4,citrus
@@ -8526,12 +8279,10 @@
 2,alcohols
 7,ethanol
 7,mature
-13,enough
 5,methane
 1,nuclear
 1,tying
 1,marginal
-16,rather
 11,efficiently
 5,thing
 3,pure
@@ -8653,7 +8404,6 @@
 3,fulfilment
 1,finest
 10,circumstances
-1,quite
 1,birthday
 3,knew
 1,hoping
@@ -8874,7 +8624,6 @@
 1,laura
 1,louisiana
 1,shenzen
-1,whereafter
 1,originating
 1,bursts
 1,lgbtq
@@ -8983,7 +8732,6 @@
 3,money
 1,originates
 3,instances
-6,none
 4,filed
 1,lawsuit
 2,allegations
@@ -9104,7 +8852,6 @@
 2,attn
 6,rosendahls
 3,matt
-12,nothing
 6,misstatements
 13,respects
 4,remainder
@@ -9206,8 +8953,6 @@
 6,bad
 2,rental
 5,stuffing
-3,neither
-4,nor
 2,weighing
 4,roof
 4,arrived
@@ -9233,7 +8978,6 @@
 2,interlinked
 1,planetary
 1,posing
-11,whom
 2,debates
 2,degrowth
 1,abound
@@ -9801,7 +9545,6 @@
 8,criterion
 1,alerted
 2,outlet
-2,hence
 1,rescuing
 1,alexander
 1,waited
@@ -9869,7 +9612,6 @@
 1,allen
 1,att
 4,fulfils
-2,therein
 7,individually
 7,electronically
 1,uploaded
@@ -9988,7 +9730,6 @@
 1,horizontal
 3,grenelle
 26,methodological
-1,herein
 2,differed
 11,qualitative
 3,probability
@@ -10268,7 +10009,6 @@
 2,tough
 4,broadening
 5,tree
-3,fifteen
 3,lawyers
 9,peddling
 6,incorporates
@@ -10365,8 +10105,6 @@
 1,shoring
 3,centric
 8,recommend
-5,someone
-1,else
 1,friend
 1,colleague
 1,discern
@@ -11057,7 +10795,6 @@
 7,translation
 1,convenience
 4,cofrac
-3,hereby
 5,fairness
 9,symbol
 64,seq
@@ -11332,7 +11069,6 @@
 4,pupils
 1,zep
 1,prioritaire
-1,sixty
 1,leeway
 2,recruitments
 1,migrated
@@ -11363,7 +11099,6 @@
 1,reproduction
 1,fashion
 1,vastness
-1,whatever
 2,lend
 1,ohio
 3,southampton
@@ -11595,7 +11330,6 @@
 2,relocated
 1,centered
 1,assert
-2,yourself
 1,loyal
 1,bach
 1,collegium
@@ -11817,7 +11551,6 @@
 7,looks
 1,eventful
 1,yield
-5,bottom
 2,jeopardised
 1,tructures
 7,hanseatic
@@ -12029,9 +11762,7 @@
 2,electricians
 1,technician
 1,defect
-2,myself
 1,tinkering
-6,something
 1,teach
 6,naturally
 1,fills
@@ -12042,7 +11773,6 @@
 1,pinpoint
 1,ludwigshafen
 1,hello
-1,nobody
 1,seemingly
 1,plagued
 1,sounds
@@ -12287,7 +12017,6 @@
 1,understands
 2,measurability
 1,quo
-2,really
 5,friendliness
 1,billing
 1,closest
@@ -12705,7 +12434,6 @@
 1,ministries
 2,bund
 1,mississauga
-1,anything
 1,starving
 1,absolutely
 1,retirement

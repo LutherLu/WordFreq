@@ -31,7 +31,7 @@ def extract_freq(file_name):
         # 每循环一次字典的key（2-15长度的单词），就在value中加1
         frequency[word] = count + 1
     # 创建一个新的txt文件存放运算结果
-    result = open(f'Result/{fn} - result - 2021.txt', 'w')
+    result = open(f'Result/{fn} - result.txt', 'w')
     # 通过循环将字典中的数据写入txt文件
     for key in frequency:
         result.write(f"{frequency[key]},{key}\n")
